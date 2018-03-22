@@ -24,6 +24,7 @@
     </div>
 </template>
 <script>
+// 引入动画
 const animation = weex.requireModule("animation");
 export default {
   data() {
